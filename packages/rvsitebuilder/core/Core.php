@@ -31,6 +31,7 @@ class Core
     public function getDepartment()
     {
         return $this->department;
+        # update 1
     }
 }
 
